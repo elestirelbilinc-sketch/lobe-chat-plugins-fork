@@ -1,0 +1,15 @@
+{
+  "author": "vapagentmedia",
+  "createdAt": "2026-02-08",
+  "homepage": "https://github.com/vapagentmedia/VAP",
+  "identifier": "vap-mcp",
+  "manifest": "https://registry.modelcontextprotocol.io/v0.1/servers?vap-e",
+  "meta": {
+    "avatar": "🎨",
+    "title": "VAP Media Generation",
+    "description": "AI-powered image, video, and music generation via VAP platform. Generate images with Replicate, videos with Replicate, and music with Suno through a unified MCP interface.",
+    "tags": ["ai-generation", "image", "video", "music", "media"],
+    "category": "media-generate"
+  },
+  "schemaVersion": 1
+}
